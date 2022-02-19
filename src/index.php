@@ -28,9 +28,6 @@ if(isset($_GET['action'])){
         break;
     }
 
-
-    
-    print_r($_SESSION['complete']);
 }
 
 ?>
